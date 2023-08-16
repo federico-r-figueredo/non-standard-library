@@ -1,0 +1,1 @@
+gcc assert.c ./test/assert_test.c -o ./build/main
